@@ -7,6 +7,11 @@ body {
     width: 600px;
     margin: 0 auto;
 }
+
+h1 {
+    font-size: 32px;
+    color: #464600;
+}
 img {
     width: 600px;
 }
