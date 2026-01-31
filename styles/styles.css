@@ -1,5 +1,7 @@
 html {
     box-sizing: border-box;
+    background-color: #FFFDD0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 body {
     width: 600px;
