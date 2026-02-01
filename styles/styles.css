@@ -14,6 +14,16 @@ h1 {
     padding-bottom: 3px;
     border-bottom: 10px solid #464600;
 }
+
 img {
     width: 600px;
+}
+
+ul {
+    background-color: #ff7334;
+    padding: 10px 50px;
+}
+
+li {
+    padding: 10px 0;
 }
