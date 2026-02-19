@@ -5,6 +5,10 @@ It's called v2 because I had a previous project with the same name.
 
 ## CSS
 When I learned more css properties I used to style the pages of the website. I mainly worked with colors, texts and positioning.
+
+## Link to Project
+https://ainteraminense.github.io/odin-recipes-v2/
+
 ## credits
 Photo by Adriano Bragi: https://www.pexels.com/photo/delicious-italian-lasagna-in-black-plate-31779545/
 Photo by Gundula Vogel: https://www.pexels.com/photo/delicious-noodle-dish-with-herbs-and-chopsticks-30506288/
