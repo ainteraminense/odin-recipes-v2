@@ -22,6 +22,7 @@ img {
 ul {
     background-color: #ff7334;
     padding: 10px 50px;
+    border: solid 2px #464600;
 }
 
 li {
